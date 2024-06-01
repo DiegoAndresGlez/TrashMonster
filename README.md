@@ -4,6 +4,7 @@
 The game is focused on collecting the largest number of plastic bottles plagued by the evil trash monster. While doing this task, you must pay attention to your health meter as you will have to dodge the monster to keep moving forward!
 
 ![](https://i.imgur.com/9gQU7Vd.gif)
+
 If the trash counter goes to 50, you get 2x velocity, but also the monster!
 
 ![](https://i.imgur.com/rde6C2e.gif)
